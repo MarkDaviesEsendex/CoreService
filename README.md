@@ -1,0 +1,2 @@
+# CoreService
+.Net core service
